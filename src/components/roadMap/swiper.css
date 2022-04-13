@@ -1,0 +1,11 @@
+.swiperB3Next{
+    left : 13% !important;
+    right : auto !important;
+    /* top: 65% !important */
+    /* width: 3% !important; */
+}
+.swiperB3Prev{
+    /* left : auto !important;
+    width: 3% !important; */
+    right : auto !important;
+}
